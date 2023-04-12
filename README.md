@@ -1,1 +1,1 @@
-# repository
+# With pre-processing and visulization towards the source data, I applied PCA models and machine/deep learning models to conduct analysis and then to make predictions on the second-hand housing prices in Beijing from a certain period. A comprehensive final report along with the related source codings are available 
